@@ -7,8 +7,6 @@
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
 - 🥅 2022 Goals: To become a fully fletched Fullstack Developer
 - ⚡ Fun fact: I enjoy puzzles and playing sports
-- 📫 Reach me on @mxolisithokozani7@gmail.com
-- 🔭 Portfolio: mxodevops.github.io/portfolio/
 
 ### Lets Connect!:
 
