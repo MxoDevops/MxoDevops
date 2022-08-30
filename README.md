@@ -2,8 +2,7 @@
 
 ## I'm a Full Stack Web Developer
 
-- 🔭 I’m currently enrolled at Microverse
-- 🌱 I’m currently learning [React, JavaScript, Ruby On Rails]
+- 🌱 I’m currently learning [React & Ruby]
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects.
 - 🥅 2022 Goals: To become a fully fletched Fullstack Developer
 - ⚡ Fun fact: I enjoy puzzles and playing sports
