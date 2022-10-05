@@ -1,4 +1,4 @@
-No### Hey there, I am Thokozani Ngubane 👋
+### Hey there, I am Thokozani Ngubane 👋
 
 ## I'm a Full Stack Web Developer
 
