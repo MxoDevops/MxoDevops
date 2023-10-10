@@ -2,9 +2,9 @@
 
 ## I'm a Full Stack Web Developer
 
-- 🌱 I’m currently learning Fullstack web development and Cyber Security 
+- 🌱 I’m currently learning Fullstack web development and UX/UI Design.
 - 👯 I’m looking to collaborate on JavaScript, React and C#
-- 🥅 2023 Goals: To become a fully-fletched Fullstack Developer & Cyber Security Analyst
+- 🥅 2023 Goals: To become a fully-fletched Fullstack Developer
 - ⚡ Fun fact: I enjoy puzzles and playing sports
 
 ### Lets Connect!:
