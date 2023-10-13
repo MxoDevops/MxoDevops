@@ -1,6 +1,6 @@
 ### Hey there, I am Thokozani Malinga 👋
 
-## I'm a Full Stack Web Developer
+## I wanna be a Full Stack Web Developer
 
 - 🌱 I’m currently learning Fullstack web development and UX/UI Design.
 - 👯 I’m looking to collaborate on JavaScript, React and C#
