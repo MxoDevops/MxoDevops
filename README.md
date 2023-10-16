@@ -1,4 +1,4 @@
-### Hey there, I am Thokozani Malinga 👋
+### Hey there, I am Thokozani Ngubane 👋
 
 ## I wanna be a Full Stack Web Developer
 
