@@ -2,7 +2,7 @@
 
 ## I am Full Stack Web Developer
 
-- 🌱 I’m currently learning Fullstack web development and UX/UI Design.
+- 🌱 I’m currently learning Fullstack web development at UPS.
 - 👯 I’m looking to collaborate on JavaScript, React and C#
 
 - ⚡ Fun fact: I enjoy puzzles and playing sports
