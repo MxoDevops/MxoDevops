@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning Fullstack web development at UPS.
 - 👯 I’m looking to collaborate on JavaScript, React and C#
 
-- ⚡ Fun fact: I enjoy puzzles and playing sports
-
 ### Lets Connect!:
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/godecuy) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thokozani-ngubane-125b26189/) [![Send me email](https://img.shields.io/badge/--gmail?label=Gmail&logo=Gmail&style=social)](mailto:mxolisithokozani@gmail.com)
